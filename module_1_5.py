@@ -1,0 +1,11 @@
+immutable_var=1989,1991,'abc','qwe'
+#immutable_var[11]='V'
+print(immutable_var)
+immutable_var=('abc','qwe',[1989,1991,2004])
+immutable_var[2][1]='!!!'
+print(immutable_var)
+mutable_var=[2222,4444,8888,'asd','dfg']
+mutable_var.extend(['ert','yui'])
+print(mutable_var)
+mutable_var.clear()
+print(mutable_var)
