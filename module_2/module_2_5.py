@@ -8,4 +8,4 @@ def get_matrix(n,m,value):
         return matrix
         result = get_matrix(3, 4, 7)
         for row in result:
-    print(row)
+            print(row)
