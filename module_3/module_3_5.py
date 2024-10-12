@@ -9,5 +9,5 @@ def get_multiplied_digits(number):
             return first * remaining_product
     else:
         return first
-result = get_multiplied_digits (123405)
+result = get_multiplied_digits(123405)
 print(result)
