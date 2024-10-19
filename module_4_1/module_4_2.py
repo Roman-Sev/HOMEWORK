@@ -7,3 +7,4 @@ try:
     inner_function()
 except NameError as e:
     print(f"Ошибка: {e}")
+#

@@ -6,3 +6,4 @@ result_true = true_divide(10, 0)
 
 print("Результат fake_math:", result_fake)
 print("Результат true_math:", result_true)
+#
