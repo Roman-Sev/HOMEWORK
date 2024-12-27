@@ -5,8 +5,8 @@ def custom_write(file_name, strings):
             byte_position = file.tell()
             file.write(string + '\n')
             strings_positions[(i, byte_position)] = string
-            return strings_positions
-        
+    return strings_positions
+
 
 strings = ["Text for tell.", "Используйте кодировку utf-8"]
 file_name = 'example.txt'
