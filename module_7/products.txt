@@ -1,2 +1,5 @@
 Potato,50.0,Vegetables
 apple,30.0,Fruits
+Potato,50.0,Vegetables
+tomato,30.0,Vegetables
+apple,50.0,Fruits
